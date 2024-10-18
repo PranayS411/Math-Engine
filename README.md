@@ -87,5 +87,5 @@ Feel free to reach out if you have any questions or suggestions!
 
 ---
 
-Happy solving and gaming with Math Engine!
+Happy solving and gaming with Math Engine! Note: The site is not complete, so if nothing is there, then I am still developing it. 
 
